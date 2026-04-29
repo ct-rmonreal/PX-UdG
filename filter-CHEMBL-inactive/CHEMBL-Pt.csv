@@ -1,0 +1,15 @@
+Molecule ChEMBL ID,Molecule Name,Compound Key,IC50,Done
+CHEMBL1743594,"Cis-[Pt(1,3-diaminepropane)2(O-Glutarate)2]",5a,200000,True
+CHEMBL1743593,"Cis-[Pt(1,3-diaminepropane)2] 1,1-cyclobutanedicarboxylate",1a,200000,True
+CHEMBL1743583,"Cis-[Pt(1,3-diaminebutane)2(OH)2] 1,1-cyclobutanedicarboxylate",2a,200000,True
+CHEMBL19739,[{cis-Pt(NH3)2Cl}2(-pzn)]Cl2,1a,91.9,False
+CHEMBL1794811,"Cis-[Pt(1,3-diaminepropane)2(O-Maleate)2]",4a,200000,False
+CHEMBL2068258,"Cis-[Pt(1,3-diaminebutane) 1,1-cyclobutanedicarboxylate]",1'b,740,False
+CHEMBL1743591,"Cis-[Pt(1,3-diaminebutane)2(O-Succinate)2]",3b,200000,False
+CHEMBL2068442,"Cis-[Pt(1,3-diaminepropane) 1,1-cyclobutanedicarboxylate]",1'a,4500,True
+CHEMBL1743584,"Cis-[Pt(1,3-diaminepropane)2(O-Succinate)2]",3a,200000,False
+CHEMBL343632,[Pt(en)BPMAA],[Pt(en)BPMAA],532,False
+CHEMBL1743586,"Cis-[Pt(1,3-diaminepropane)2(OH)2] 1,1-cyclobutanedicarboxylate",2b,200000,False
+CHEMBL1743600,"Cis-[Pt(1,3-diaminebutane)2] 1,1-cyclobutanedicarboxylate",1b,200000,False
+CHEMBL421775,[Pt(NH3)2BPMAA],[Pt(NH3)2BPMAA],128,False
+CHEMBL4585668,BELZUTIFAN,2,50,False

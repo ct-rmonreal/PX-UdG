@@ -1,0 +1,27 @@
+   GoodVibes v3.2 2026/04/23 12:48:03
+   Citation: Luchini, G.; Alegre-Requena, J. V.; Funes-Ardoiz, I.; Paton, R. S. F1000Research, 2020, 9, 291.
+   GoodVibes version 3.2 DOI: 10.12688/f1000research.22758.1
+
+o  Requested: --qh grimme -t 298.15 
+
+   Temperature = 298.15 Kelvin   Pressure = 1 atm
+   All energetic values below shown in Hartree unless otherwise specified.
+
+   Using vibrational scale factor 1.0 for B3LYP/Gen/Auto level of theory
+
+   Entropic quasi-harmonic treatment: frequency cut-off value of 100.0 wavenumbers will be applied.
+   QS = Grimme: Using a mixture of RRHO and Free-rotor vibrational entropies.
+   REF: Grimme, S. Chem. Eur. J. 2012, 18, 9955-9964
+
+
+   Enthalpy quasi-harmonic treatment: frequency cut-off value of 100.0 wavenumbers will be applied.
+   QH = Head-Gordon: Using an RRHO treatement with an approximation term for vibrational energy.
+   REF: Li, Y.; Gomes, J.; Sharada, S. M.; Bell, A. T.; Head-Gordon, M. J. Phys. Chem. C 2015, 119, 1840-1850
+
+
+   Structure                                           E        ZPE             H          qh-H        T.S     T.qh-S          G(T)       qh-G(T)
+   **********************************************************************************************************************************************
+o  CHEMBL175535                              -883.737491   0.282079   -883.436875   -883.439082   0.064028   0.061940   -883.500903   -883.501022
+o  CHEMBL177920                              -843.200938   0.233893   -842.950942   -842.953145   0.059953   0.057925   -843.010895   -843.011070
+o  CHEMBL177971                             -1387.749336   0.229815  -1387.504482  -1387.505696   0.055691   0.054951  -1387.560173  -1387.560647
+   **********************************************************************************************************************************************

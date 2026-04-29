@@ -1,0 +1,19 @@
+Name,Indication,Metal,PubChem_ID,CCDC,ATC
+cisplatin,metallodrug,Pt,5460033,CUKRAB,A01X
+picoplatin,metallodrug,Pt,177358,None,A01X
+oxaliplatin,metallodrug,Pt,9887053,CUKRAB,A01X
+satraplatin,metallodrug,Pt,123974,None,A01X
+iproplatin,metallodrug,Pt,155491322,None,A01X
+imifoplatin,metallodrug,Pt,25241709,None,A01X
+nedaplatin,metallodrug,Pt,9796440,None,A01X
+lobaplatin,metallodrug,Pt,10000860,None,A01X
+carboplatin,metallodrug,Pt,10339178,None,A01X
+aurothiomalate,metallodrug,Au,422786,None,M01C
+auranofin,metallodrug,Au,24199313,AGLPAU,M01C
+aurothiosulfate,metallodrug,Au,27176,None,M01C
+aurothioprol,metallodrug,Au,10452965,None,M01C
+aurothioglucose,metallodrug,Au,454937,None,M01C
+nitroprusside,metallodrug,Fe,11953895,BOGMAN,C02DD01
+ferroquine,metallodrug,Fe,140118553,LEZNIO,
+bismuth subcitrate,metallodrug,Bi,10101269,None,A02BX05
+silver sulfadiazine,metallodrug,Ag,441244,None,D06BA01
