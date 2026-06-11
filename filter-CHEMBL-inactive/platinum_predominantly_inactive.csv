@@ -1,0 +1,52 @@
+molecule_chembl_id,molecule_name,formula,total_assays,median_IC50_uM,Active,Inactive
+CHEMBL1386,TRANSPLATIN,H6Cl2N2Pt,28,77.0,7,21
+"CHEMBL73466,""2,6-bis(2,2-dimethylpropoxy)-1,3,5,7-tetrathia-4-platinaspiro[3.3]heptane"",C12H24O2PtS4,12,79.0,2,10"
+"CHEMBL72816,""2,6-bis(2,2-dimethyl-3-phenylpropoxy)-1,3,5,7-tetrathia-4-platinaspiro[3.3]heptane"",C24H32O2PtS4,12,50.0,2,10"
+"CHEMBL72317,""2,6-bis(cyclopropylmethoxy)-1,3,5,7-tetrathia-4-platinaspiro[3.3]heptane"",C10H16O2PtS4,12,78.5,3,9"
+"CHEMBL312519,""2,6-bis(nonyloxy)-1,3,5,7-tetrathia-4-platinaspiro[3.3]heptane"",C20H40O2PtS4,12,76.0,3,9"
+"CHEMBL75221,""2,6-bis(octyloxy)-1,3,5,7-tetrathia-4-platinaspiro[3.3]heptane"",C18H36O2PtS4,12,69.5,4,8"
+CHEMBL103847,Trans-Amminedichloro(diethylamine)platinium (II),C4H12Cl2N2Pt,8,50.0,0,8
+"CHEMBL75222,""2,6-bis(hexyloxy)-1,3,5,7-tetrathia-4-platinaspiro[3.3]heptane"",C14H28O2PtS4,12,67.0,5,7"
+CHEMBL317255,trans-Amminedichloro(quinuclidine)platinium (II),C7H16Cl2N2Pt,8,50.0,1,7
+"CHEMBL1743584,""Cis-[Pt(1,3-diaminepropane)2(O-Succinate)2]"",C14H24N4O8Pt,6,200000.0,0,6"
+CHEMBL1743585,Platinum complex,C18H32N4O8Pt,6,200000.0,0,6
+"CHEMBL2068442,""Cis-[Pt(1,3-diaminepropane) 1,1-cyclobutanedicarboxylate]"",C9H14N2O4Pt,6,6250.0,0,6"
+"CHEMBL1794811,""Cis-[Pt(1,3-diaminepropane)2(O-Maleate)2]"",C14H22N4O8Pt+2,6,200000.0,0,6"
+"CHEMBL2068258,""Cis-[Pt(1,3-diaminebutane) 1,1-cyclobutanedicarboxylate]"",C10H16N2O4Pt,6,4650.0,0,6"
+CHEMBL1794812,Platinum complex,C16H26N4O8Pt+2,6,200000.0,0,6
+"CHEMBL1743583,""Cis-[Pt(1,3-diaminebutane)2(OH)2] 1,1-cyclobutanedicarboxylate"",C12H24N4O6Pt,6,200000.0,0,6"
+"CHEMBL1743600,""Cis-[Pt(1,3-diaminebutane)2] 1,1-cyclobutanedicarboxylate"",C14H26N4O4Pt,6,200000.0,0,6"
+"CHEMBL1743594,""Cis-[Pt(1,3-diaminepropane)2(O-Glutarate)2]"",C16H28N4O8Pt,6,200000.0,0,6"
+"CHEMBL1743593,""Cis-[Pt(1,3-diaminepropane)2] 1,1-cyclobutanedicarboxylate"",C12H22N4O4Pt,6,200000.0,0,6"
+"CHEMBL1743591,""Cis-[Pt(1,3-diaminebutane)2(O-Succinate)2]"",C16H28N4O8Pt,6,200000.0,0,6"
+"CHEMBL1743586,""Cis-[Pt(1,3-diaminepropane)2(OH)2] 1,1-cyclobutanedicarboxylate"",C14H28N4O6Pt,6,200000.0,0,6"
+CHEMBL611448,Pt(II) Complex,C14H44Cl12N6Pt3,6,112.5,1,5
+CHEMBL2146200,Platinum complex,C6H18Cl2N2Pt,6,79.0,2,4
+"CHEMBL441330,""(2,2':6',2''-terpyridine)platinum (II) complex"",C24H25B2F8N5OPt+4,6,100.0,2,4"
+CHEMBL267638,Platinum complex,C21H20B2F8N6Pt+4,6,63.5,2,4
+CHEMBL611447,Pt(II) Complex,C15H42Cl8N6Pt3+4,6,86.5,2,4
+"CHEMBL440148,""3-(7a-Chloro-7-diisopropylamino-hexahydro-6-oxa-1,3a-diaza-platinum-7lambda*5*-phospha-inden-7-yloxy)-propionitrile"",C13H29Cl2N4O2PPt,4,182.5,0,4"
+CHEMBL191157,camphorato platinum complex derivative,C16H30N2O4Pt,4,87.225,1,3
+CHEMBL197200,Cisplatin derivative,C20H37N5O13Pt,3,119.0,0,3
+CHEMBL197201,Cisplatin derivative,C10H19N3O9Pt,3,614.0,0,3
+CHEMBL608255,9-acridinylmethylamino-methylaminomethanethione1-PtCl(en),C17H20ClN5PtS,3,100.0,0,3
+CHEMBL175535,Cis-Platinum (II) Conjugate,C9H18N2O4Pt+2,3,176.03,1,2
+CHEMBL147203,Platinum complex,C10H21N3O8P2Pt+,3,52.4,1,2
+CHEMBL368607,Cis-Platinum (II) Conjugate,C9H16N2O4Pt+2,3,167.86,1,2
+CHEMBL368608,Cis-Platinum (II) Conjugate,C12H20N2O4Pt+2,3,167.52,1,2
+CHEMBL175844,Cis-Platinum (II) Conjugate,C12H22N2O4Pt+2,3,135.9,1,2
+"CHEMBL1743595,""1,1/t,t/CFDA labeled derivative"",C38H44Cl2F6N8O13Pt2,2,50.0,0,2"
+CHEMBL191321,DNP-Pt complex,C15H24ClN7O5Pt,2,50.0,0,2
+CHEMBL190222,CFDA-Pt complex,C28H23Cl2N3O8Pt,2,50.0,0,2
+"CHEMBL1743589,""1,1/t,t/DNP labeled derivative"",C25H43Cl2F6N11O10Pt2,2,50.0,0,2"
+"CHEMBL363171,""1,1/c,c/DNP labeled derivative"",C36H60Cl4N14O10Pt2,2,50.0,0,2"
+"CHEMBL264052,""1,1/c,c/CFDA Labeled Derivative"",C62H62Cl4N8O16Pt2,2,50.0,0,2"
+CHEMBL2092802,3-aminocytidine-dichloroplatinum (II),C9H12Cl2N4O5Pt,1,122.0,0,1
+"CHEMBL275940,""(1,4-Diaminebutane) ([2,2']Bipyridinyl)platinum (II) dichloride"",C14H20Cl2N4Pt-,1,500.0,0,1"
+CHEMBL343632,[Pt(en)BPMAA],C6H15N3O8P2Pt+,1,532.0,0,1
+CHEMBL334223,[Pt-(dien)Cl]Cl,C4H10Cl2N3Pt-,1,271.0,0,1
+"CHEMBL276637,""(1,4-Diaminobutane)(1,10-phenanthroline)-platinum (II) dichloride Monohydrate"",C16H18Cl2N4Pt-,1,110.0,0,1"
+"CHEMBL441340,""(1,4-Diamino-butane)(3,4,7,8-tetramethyl-1,10-phenanthroline)platinum (II) dichloride"",C20H26Cl2N4Pt-,1,50.0,0,1"
+CHEMBL421775,[Pt(NH3)2BPMAA],C4H14N3O8P2Pt+2,1,128.0,0,1
+"CHEMBL13606,""(2,2':6',2''-terpyridine)platinum (II) dichloride Trihydrate"",C15H11Cl2N3Pt+2,1,450.0,0,1"
+CHEMBL119350,[Pt-(en2)]Cl2,C4H12Cl2N4Pt-2,1,1684.0,0,1

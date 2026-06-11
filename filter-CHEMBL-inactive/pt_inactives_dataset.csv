@@ -1,0 +1,47 @@
+molecule_chembl_id,pref_name,formula,best_ic50_nM,total_assays,ml_class
+CHEMBL103847,Trans-Amminedichloro(diethylamine)platinium (II),C4H12Cl2N2Pt,50000.0,8,Inactive
+CHEMBL119350,[Pt-(en2)]Cl2,C4H12Cl2N4Pt-2,1684000.0,1,Inactive
+CHEMBL13606,"(2,2':6',2''-terpyridine)platinum (II) dichloride Trihydrate",C15H11Cl2N3Pt+2,450000.0,1,Inactive
+CHEMBL1743583,"Cis-[Pt(1,3-diaminebutane)2(OH)2] 1,1-cyclobutanedicarboxylate",C12H24N4O6Pt,200000000.0,6,Inactive
+CHEMBL1743584,"Cis-[Pt(1,3-diaminepropane)2(O-Succinate)2]",C14H24N4O8Pt,200000000.0,6,Inactive
+CHEMBL1743585,Platinum complex,C18H32N4O8Pt,200000000.0,6,Inactive
+CHEMBL1743586,"Cis-[Pt(1,3-diaminepropane)2(OH)2] 1,1-cyclobutanedicarboxylate",C14H28N4O6Pt,200000000.0,6,Inactive
+CHEMBL1743589,"1,1/t,t/DNP labeled derivative",C25H43Cl2F6N11O10Pt2,50000.0,2,Inactive
+CHEMBL1743591,"Cis-[Pt(1,3-diaminebutane)2(O-Succinate)2]",C16H28N4O8Pt,200000000.0,6,Inactive
+CHEMBL1743593,"Cis-[Pt(1,3-diaminepropane)2] 1,1-cyclobutanedicarboxylate",C12H22N4O4Pt,200000000.0,6,Inactive
+CHEMBL1743594,"Cis-[Pt(1,3-diaminepropane)2(O-Glutarate)2]",C16H28N4O8Pt,200000000.0,6,Inactive
+CHEMBL1743595,"1,1/t,t/CFDA labeled derivative",C38H44Cl2F6N8O13Pt2,50000.0,2,Inactive
+CHEMBL1743600,"Cis-[Pt(1,3-diaminebutane)2] 1,1-cyclobutanedicarboxylate",C14H26N4O4Pt,200000000.0,6,Inactive
+CHEMBL1794811,"Cis-[Pt(1,3-diaminepropane)2(O-Maleate)2]",C14H22N4O8Pt+2,200000000.0,6,Inactive
+CHEMBL1794812,Platinum complex,C16H26N4O8Pt+2,200000000.0,6,Inactive
+CHEMBL190222,CFDA-Pt complex,C28H23Cl2N3O8Pt,50000.0,2,Inactive
+CHEMBL191321,DNP-Pt complex,C15H24ClN7O5Pt,50000.0,2,Inactive
+CHEMBL197200,Cisplatin derivative,C20H37N5O13Pt,62700.0,1,Inactive
+CHEMBL197201,Cisplatin derivative,C10H19N3O9Pt,307000.0,1,Inactive
+CHEMBL1983282,,C6H14Cl6N2OPt-2,100000.0,55,Inactive
+CHEMBL1997210,,C12H24N4O4Pt,100000.0,58,Inactive
+CHEMBL1998907,,C13H28N4O12P4Pt-2,100000.0,59,Inactive
+CHEMBL2001487,,C10H22ClN2O3Pt+6,51404.37,57,Inactive
+CHEMBL2002843,,C6H18N4O12P4Pt-2,100000.0,55,Inactive
+CHEMBL2068258,"Cis-[Pt(1,3-diaminebutane) 1,1-cyclobutanedicarboxylate]",C10H16N2O4Pt,320000.0,6,Inactive
+CHEMBL2068442,"Cis-[Pt(1,3-diaminepropane) 1,1-cyclobutanedicarboxylate]",C9H14N2O4Pt,300000.0,6,Inactive
+CHEMBL2092802,3-aminocytidine-dichloroplatinum (II),C9H12Cl2N4O5Pt,122000.0,1,Inactive
+CHEMBL2146225,,C8H23ClN2OPtSSi,91833.26,54,Inactive
+CHEMBL2146227,,C6H18Cl4N2PtSi,51168.18,54,Inactive
+CHEMBL2146229,,C14H10BrCl2N3OPt,79799.47,55,Inactive
+CHEMBL2146235,,C14H12Cl2N2O6Pt-2,89330.55,56,Inactive
+CHEMBL2146242,,C34H34Cl4N4Pt2,100000.0,58,Inactive
+CHEMBL2146249,,C10H18Cl2N2O4Pt,87700.08,49,Inactive
+CHEMBL2146255,,C6H18Cl2N2PtSi,100000.0,53,Inactive
+CHEMBL2146260,,C34H44Cl2N2P2Pt,80352.61,49,Inactive
+CHEMBL2146287,,C12H12Cl2N2O6PtS2-2,100000.0,53,Inactive
+CHEMBL264052,"1,1/c,c/CFDA Labeled Derivative",C62H62Cl4N8O16Pt2,50000.0,2,Inactive
+CHEMBL275940,"(1,4-Diaminebutane) ([2,2']Bipyridinyl)platinum (II) dichloride",C14H20Cl2N4Pt-,500000.0,1,Inactive
+CHEMBL276637,"(1,4-Diaminobutane)(1,10-phenanthroline)-platinum (II) dichloride Monohydrate",C16H18Cl2N4Pt-,110000.0,1,Inactive
+CHEMBL334223,[Pt-(dien)Cl]Cl,C4H10Cl2N3Pt-,271000.0,1,Inactive
+CHEMBL343632,[Pt(en)BPMAA],C6H15N3O8P2Pt+,532000.0,1,Inactive
+CHEMBL363171,"1,1/c,c/DNP labeled derivative",C36H60Cl4N14O10Pt2,50000.0,2,Inactive
+CHEMBL421775,[Pt(NH3)2BPMAA],C4H14N3O8P2Pt+2,128000.0,1,Inactive
+CHEMBL440148,"3-(7a-Chloro-7-diisopropylamino-hexahydro-6-oxa-1,3a-diaza-platinum-7lambda*5*-phospha-inden-7-yloxy)-propionitrile",C13H29Cl2N4O2PPt,125000.0,4,Inactive
+CHEMBL441340,"(1,4-Diamino-butane)(3,4,7,8-tetramethyl-1,10-phenanthroline)platinum (II) dichloride",C20H26Cl2N4Pt-,50000.0,1,Inactive
+CHEMBL608255,9-acridinylmethylamino-methylaminomethanethione1-PtCl(en),C17H20ClN5PtS,75000.0,3,Inactive
